@@ -1,0 +1,6 @@
+screens\HomeScreen.class
+screens\ProductListScreen.class
+screens\SplashScreen.class
+screens\ProductDetailScreen.class
+screens\LocationCofigScreen.class
+screens\BaseScreen.class

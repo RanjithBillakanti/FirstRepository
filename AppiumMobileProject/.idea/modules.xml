@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AppiumMobileProject.iml" filepath="$PROJECT_DIR$/.idea/AppiumMobileProject.iml" />
+      <module fileurl="file://D:/iDigiPro/Automation.iml" filepath="D:/iDigiPro/Automation.iml" />
+      <module fileurl="file://D:/LandeskMobApp/LandeskMobApp.iml" filepath="D:/LandeskMobApp/LandeskMobApp.iml" />
+    </modules>
+  </component>
+</project>

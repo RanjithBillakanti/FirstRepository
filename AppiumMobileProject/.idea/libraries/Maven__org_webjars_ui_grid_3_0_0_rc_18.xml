@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.webjars:ui-grid:3.0.0-rc.18">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/webjars/ui-grid/3.0.0-rc.18/ui-grid-3.0.0-rc.18.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/org/webjars/ui-grid/3.0.0-rc.18/ui-grid-3.0.0-rc.18-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/webjars/ui-grid/3.0.0-rc.18/ui-grid-3.0.0-rc.18-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

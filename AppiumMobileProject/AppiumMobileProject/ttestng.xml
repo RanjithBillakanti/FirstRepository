@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Amazon-Android-Test-Suite" parallel="tests" thread-count="2">
+
+    <listeners>
+        <listener class-name="utilities.TestListener"/>
+    </listeners>
+    <!--Moto Turbo Mobile Details -->
+  <!--   <test name="Moto Turbo" parallel="classes" thread-count="1">
+         <parameter name="deviceName" value="Moto Turbo" />
+         <parameter name="platformVersion" value="6.0.1" />
+         <parameter name="portNumber" value="4723" />
+         <parameter name="udid" value="ZX1F522JMH" />
+         <classes>
+             <class name="tests.cucumber.test.TestRunner"/>
+         </classes>
+     </test>-->
+
+    <!--Lenovo A7000-a Mobile Details -->
+     <!--<test name="Test-Lenovo A7000-a" parallel="classes" thread-count="1">
+         <parameter name="deviceName" value="Lenovo A7000-a" />
+         <parameter name="platformVersion" value="6.0" />
+         <parameter name="portNumber" value="5000" />
+         <parameter name="udid" value="6SSS89L7DYMR7SYS" />
+         <classes>
+             <class name="tests.cucumber.test.TestRunner"/>
+         </classes>
+     </test>-->
+
+    <!--Vivo 1606 Mobile Details-->
+    <test name="Test-Vivo 1606" parallel="classes" thread-count="1">
+         <parameter name="deviceName" value="Vivo 1606" />
+         <parameter name="platformVersion" value="6.0.1" />
+         <parameter name="portNumber" value="5000" />
+         <parameter name="udid" value="f59eea9" />
+         <classes>
+             <class name="tests.cucumber.test.TestRunner"/>
+         </classes>
+     </test>
+
+    <!--MI 5A Mobile Details-->
+
+    <test name="Redmi 5A" parallel="classes" thread-count="1">
+        <parameter name="deviceName" value="Redmi 5A" />
+        <parameter name="platformVersion" value="7.1.2" />
+        <parameter name="portNumber" value="4723" />
+        <parameter name="udid" value="2013c4c47ce5" />
+        <classes>
+            <class name="tests.cucumber.test.TestRunner"/>
+        </classes>
+    </test>
+</suite>
